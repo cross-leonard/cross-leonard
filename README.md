@@ -1,6 +1,10 @@
 ## wassup 👋
 
-tryna to get good
+tryna to get good  
+
+╾━╤デ╦︻(◣_◢)つ/̸͆̅̿̎͞ ̎̅̿ ̄̿̈ ͆̈̚ ̎
+
+currently working on building a personal kanji ocr
 
 <!--
 **cross-leonard/cross-leonard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
