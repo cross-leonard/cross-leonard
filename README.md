@@ -4,17 +4,14 @@
 
 currently working on building a personal kanji ocr
 
-<!--
-**cross-leonard/cross-leonard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# get in touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+feel free to reach out — im always open to connecting, collaborating, or just chatting about tech!
+
+- 📧 Email: cross.r.leonard@gmail.com 
+- 💼 LinkedIn: [Cross Leonard](https://www.linkedin.com/in/cross-leonard-76a7ab3a9/)
+
+---
+
+⚡ *currently looking for internship opportunities and interesting projects to work on!*
