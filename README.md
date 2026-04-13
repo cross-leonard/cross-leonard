@@ -1,8 +1,6 @@
 ## wassup 👋
-
-tryna to get good  
-
-╾━╤デ╦︻(◣_◢)つ/̸͆̅̿̎͞ ̎̅̿ ̄̿̈ ͆̈̚ ̎
+ 
+╾━╤デ╦︻⊂(◣_◢)つ/̸͆̅̿̎͞ ̎̅̿ ̄̿̈ ͆̈̚ ̎
 
 currently working on building a personal kanji ocr
 
