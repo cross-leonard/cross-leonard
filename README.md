@@ -7,7 +7,7 @@ currently working on building a personal kanji ocr
 
 ### get in touch
 
-feel free to reach out — im always open to connecting, collaborating, or just chatting about tech!
+feel free to reach out — im always open to connecting or collaborating
 
 - 📧 Email: cross.r.leonard@gmail.com 
 - 💼 LinkedIn: [Cross Leonard](https://www.linkedin.com/in/cross-leonard-76a7ab3a9/)
