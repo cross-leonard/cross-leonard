@@ -5,7 +5,7 @@
 currently working on building a personal kanji ocr
 
 
-### get in touch
+### Get In Touch
 
 feel free to reach out — im always open to connecting or collaborating
 
