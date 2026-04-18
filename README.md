@@ -2,7 +2,7 @@
  
 ╾━╤デ╦︻⊂(◣_◢)つ/̵͇̿̿/'̿'̿ ̿ ̿̿
 
-currently working on building a personal kanji ocr
+currently working on finals for school!
 
 
 ### Get In Touch
