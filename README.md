@@ -1,4 +1,4 @@
-## wassup 👋
+## Hi 👋
 
 My name is Cross and I'm a CS student at the University of utah. Currently I am studying abroad in Scotland and this fall semester I will be studying abroad in Hong Kong. I really enjoy building personal projects that streamline tasks.
 
