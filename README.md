@@ -1,17 +1,17 @@
-# Hey, I’m Cross
+## wassup 👋
 
-Computer Science student @ University of Utah  
-Studying abroad in Scotland → Hong Kong (Fall)
+My name is Cross and I'm a CS student at the University of utah. Currently I am studying abroad in Scotland and this fall semester I will be studying abroad in Hong Kong. I really enjoy building personal projects that streamline tasks.
 
-## Work
-Refactoring projects with better structure and real-world practices
 
-## Learning
-OpenCV, NumPy, Pandas, Docker
+### Get In Touch
 
-## Focus
-Software engineering + computer vision
+feel free to reach out — im always open to connecting or collaborating
 
-## Contact
-Email: cross.r.leonard@gmail.com  
-LinkedIn: https://www.linkedin.com/in/cross-leonard-76a7ab3a9/
+- 📧 Email: cross.r.leonard@gmail.com 
+- 💼 LinkedIn: [clicke me!](https://www.linkedin.com/in/cross-leonard-76a7ab3a9/)
+
+---
+
+⚡ *currently looking for internship opportunities and interesting projects to work on!*
+
+
