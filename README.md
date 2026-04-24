@@ -1,5 +1,24 @@
-# 👀 Hi, I'm Cross!
-🔭 I’m currently working on refactoring some prior projects.<br> <br>🌱 I’m currently learning OpenCV, Panda, NumPy and Docker br>
+# 👋 Hey, I’m Cross
+
+💻 Computer Science student at the University of Utah
+🌍 Currently studying abroad in Scotland, heading to Hong Kong this fall
+
+---
+
+🔧 **What I’m up to**
+Refactoring old projects and leveling them up with cleaner design, better structure, and more real-world practices
+
+📚 **Currently learning**
+OpenCV • NumPy • Pandas • Docker
+
+---
+
+🚀 **What I’m focused on**
+Building a strong foundation in software engineering while exploring computer vision and practical tools that scale
+
+---
+
+📌 On the hunt for an internship
 
 
 ## 🌐 Socials:
