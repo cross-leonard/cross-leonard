@@ -3,17 +3,15 @@
 💻 Computer Science student at the University of Utah
 🌍 Currently studying abroad in Scotland, heading to Hong Kong this fall
 
----
 
-🔧 **What I’m up to**
+🔧 ##What I’m up to
 Refactoring old projects and leveling them up with cleaner design, better structure, and more real-world practices
 
-📚 **Currently learning**
+📚 ##Currently learning
 OpenCV • NumPy • Pandas • Docker
 
----
 
-🚀 **What I’m focused on**
+🚀 ##What I’m focused on
 Building a strong foundation in software engineering while exploring computer vision and practical tools that scale
 
 ---
