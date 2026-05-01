@@ -1,6 +1,6 @@
 ## Hi 👋
 
-My name is Cross and I'm a CS student at the University of utah. Currently I am studying abroad in Scotland and this fall semester I will be studying abroad in Hong Kong. Currently grinding for finals :/
+My name is Cross and I'm a CS student at the University of Utah. Currently I am studying abroad in Scotland and this fall semester I will be studying abroad in Hong Kong. Currently grinding for finals :/
 
 
 ### Get In Touch
